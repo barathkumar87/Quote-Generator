@@ -104,6 +104,8 @@ button:focus {
 }
 
 .loader.hide {
-  display: none;
+  
+  
+display: none;
   
 }
