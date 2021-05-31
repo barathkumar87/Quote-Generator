@@ -73,6 +73,7 @@ hr {
 }
 
 .buttons button {
+  width: 118px;
   cursor: pointer;
   border: none;
   color: var(--secondary-color);
